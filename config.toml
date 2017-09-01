@@ -1,0 +1,35 @@
+baseURL = "https://w3.cs.jmu.edu/cs149/"
+languageCode = "en-us"
+title = "Introduction to Programming"
+description = ""
+theme = "kube"
+Paginate = 4
+[Params]
+  RSSLink = "/index.xml"
+  author = "JMU Computer Science" # add your company name
+#  github = "" # add your github profile name
+#  twitter = "" # add your twitter profile
+#  email = "myemail@myaddress.xxx"
+
+
+
+[[menu.main]]
+    name = "Textbook"
+    weight = -150
+    url = "/book/"
+[[menu.main]]
+    name = "Resources"
+    weight = -50
+    url = "/resources/"
+[[menu.main]]
+    name = "Policies"
+    weight = -100
+    url = "/coursepolicies/"
+#[[menu.main]]
+#    name = "FAQs"
+#    weight = -25
+#    url = "/faq/"
+[[menu.main]]
+    name = "Help!"
+    weight = -0
+    url = "/help/"
