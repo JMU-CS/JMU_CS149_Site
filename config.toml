@@ -33,3 +33,7 @@ Paginate = 4
     name = "Help!"
     weight = -0
     url = "/help/"
+[[menu.main]]
+    name = "PAs"
+    weight = -75
+    url = "/pas"

@@ -151,11 +151,14 @@ Programming and on their way to a major in computer science.
             <figure class="crop">
             <img alt="Prof. Jingwei Yang" src="img/JYang.jpg" width="150" height="150">
             </figure>
-            <h3><a href="javascript:alert('coming soon')">Prof. Jingwei Yang</a></h3>
+            <h3><a href="http://www.jmu.edu/cs/people/faculty/yang-jingwei.shtml">Prof. Jingwei Yang</a></h3>
             <p>Section 11</p>
             <p>MWF 3:35-4:25p <br> ISAT/CS 143 (Lab) and 243 (Classroom)<p>
             <p>
-                <a href="javascript:alert('coming soon')">Contact</a>
+                <a href="https://canvas.jmu.edu/courses/1523266/modules">Schedule</a> |
+                <a href="https://canvas.jmu.edu/courses/1523266/assignments/syllabus">Syllabus</a> |
+                <a href="mailto:yang6jx@jmu.edu">Contact</a>
+
             </p>
         </div>
     </div>
