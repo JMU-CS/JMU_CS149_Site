@@ -1141,3 +1141,18 @@ tr.border-none td {
   #price-box .item-selected {
     margin-top: 24px;
     top: 0; } }
+
+#posts li {
+  margin-bottom: 0;}
+
+.rbio-input {
+  color: #972613;  
+}
+
+.rbio-output {
+  color: #006DDB;
+}
+
+ol {
+  margin-bottom: 10px !important;
+}
