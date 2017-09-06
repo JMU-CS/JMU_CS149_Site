@@ -174,37 +174,26 @@ Programming and on their way to a major in computer science.
 
 <div id="kube-features" style="margin-top: 5em;">
     <div class="row gutters">
+        
+        <div class="col col-4 item">
+            <figure class="crop">
+            <img alt="Megan Gilbert" src="/cs149/img/megan.jpg"style="top:-100%;" width="150" height="150">
+            </figure>
+            <h3>Megan Gilbert</h3>
+            <p>Section 4</p>
+        </div>
+        <div class="col col-4 item">
+            <figure class="crop">
+            <img alt="Virginia Olchevsky" src="/cs149/img/virginia.jpg" style="top:-100%;" width="150" height="150">
+            </figure>
+            <h3>Virginia Olchevsky</h3>
+            <p>Section 5</p>
+        </div>
         <div class="col col-4 item">
             <figure class="crop">
             <img alt="Teaching Assistant Wizard" src="http://orig13.deviantart.net/60a0/f/2011/161/f/b/wizard_by_adam_brown-d3iiyfb.jpg" style="top:-100%;" width="150" height="150">
             </figure>
-            <h3>Coming soon...</h3>
+            <h3>More coming soon...</h3>
         </div>
-        <!--div class="col col-4 item">
-            <figure class="crop">
-            <img alt="Prof. David Bernstein" src="https://www.jmu.edu/_images/cs/faculty-staff-images/bernstein.jpg" width="150" height="150">
-            </figure>
-            <h3><a href="https://users.cs.jmu.edu/bernstdh/Web/index.html">Prof. David Bernstein</a></h3>
-            <p>Sections 2, 3</p>
-            <p>MWF 1:25-2:15p, MWF 2:30-3:20p<br>ISAT/CS 140</p>
-            <p>
-                <a href="bernstein/schedule">Schedule</a> |
-                <a href="bernstein/syllabus">Syllabus</a> |
-                <a href="mailto:bernstdh@jmu.edu">Contact</a>
-            </p>
-        </div>
-        <div class="col col-4 item">
-            <figure class="crop">
-            <img alt="Prof. Michael Stewart" src="http://people.cs.vt.edu/tgm/wp-content/uploads/2016/10/tgm-1.jpg" style="top:-100%;" width="150" height="150">
-            </figure>
-            <h3><a href="http://people.cs.vt.edu/tgm/">Prof. Michael Stewart</a></h3>
-            <p>Sections 4, 5</p>
-            <p>MWF 9:05-9:55a, MWF 10:10-11a <br> ISAT/CS 143</p>
-            <p>
-                <a href="stewart/schedule">Schedule</a> |
-                <a href="stewart/syllabus">Syllabus</a> |
-                Contact
-            </p>
-        </div-->
     </div>
 </div>
