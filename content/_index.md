@@ -41,9 +41,15 @@ Programming and on their way to a major in computer science.
 
 ---
 
+<br>
+
 # Quick Links
 
+<br>
+
 [Canvas](http://canvas.jmu.edu) | [Piazza](https://piazza.com) |[Web-CAT](https://webcat.cs.jmu.edu)
+
+<br>
 
 ---
 
@@ -62,8 +68,8 @@ Programming and on their way to a major in computer science.
             <p>Section 1</p>
             <p>TTh 8-9:15a <br> ISAT/CS 143</p>
             <p>
-                <a href="chao/schedule">Schedule</a> |
-                <a href="chao/syllabus">Syllabus</a> |
+                <a href="https://w3.cs.jmu.edu/weikleda/cs149f17/schedule.html">Schedule</a> |
+                <a href="https://w3.cs.jmu.edu/weikleda/cs149f17/syllabus.pdf">Syllabus</a> |
                 <a href="mailto:chaoaj%20AT%20jmu.edu">chaoaj AT jmu.edu</a>
             </p>
         </div>
@@ -131,6 +137,8 @@ Programming and on their way to a major in computer science.
             <p>Sections 8, 9</p>
             <p>TTh 11a-12:15p, TTh 12:30-1:45p<br>ENGEO 2204 (Classroom) and ISAT/CS 250 (Lab)</p>
             <p>
+                <a href="https://w3.cs.jmu.edu/weikleda/cs149f17/schedule.html">Schedule</a> |
+                <a href="https://w3.cs.jmu.edu/weikleda/cs149f17/syllabus.pdf">Syllabus</a> |
                 <a href="mailto:weikleda@jmu.edu">Contact</a>
             </p>
         </div>
@@ -172,9 +180,10 @@ Programming and on their way to a major in computer science.
 
 ## Fall 2017 Teaching Assistants
 
+
 <div id="kube-features" style="margin-top: 5em;">
     <div class="row gutters">
-        
+
         <div class="col col-4 item">
             <figure class="crop">
             <img alt="Megan Gilbert" src="/cs149/img/megan.jpg"style="top:-100%;" width="150" height="150">
@@ -197,3 +206,17 @@ Programming and on their way to a major in computer science.
         </div>
     </div>
 </div>
+
+---
+
+<br>
+
+## Teaching Assistant Lab Hours
+
+<br>
+
+The ISAT/CS 248 and 250 labs are staffed by teaching assistants on Sunday from 1 to 11 pm and Monday-Thursday from 5 to 11pm.
+
+<br>
+
+---
