@@ -2,7 +2,7 @@
 
 if [ "$#" -ne 1 ]; then
     echo "USAGE:"
-    echo "      ./push <username>"
+    echo "      ./push.sh <username>"
     echo ""
     echo "Where <username> is your w3.cs.jmu.edu username."
 else
