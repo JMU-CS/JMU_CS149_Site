@@ -7,5 +7,5 @@ description = ""
 
 # Programming Assignments
 
-1. [Programming Assignment 
-"PA" 1](/cs149/pa/1)
+1. [Programming Assignment 1](/cs149/pa/1)
+2. [Programming Assignment 2](/cs149/pa/2)
