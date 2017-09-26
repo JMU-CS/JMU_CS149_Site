@@ -68,8 +68,8 @@ Programming and on their way to a major in computer science.
             <p>Section 1</p>
             <p>TTh 8-9:15a <br> ISAT/CS 143</p>
             <p>
-                <a href="https://w3.cs.jmu.edu/weikleda/cs149f17/schedule.html">Schedule</a> |
-                <a href="https://w3.cs.jmu.edu/weikleda/cs149f17/syllabus.pdf">Syllabus</a> |
+                <a href="http://educ.jmu.edu/~chaoaj/cs149/calendar.shtml">Schedule</a> |
+                <a href="http://educ.jmu.edu/~chaoaj/cs149/syllabus.shtml">Syllabus</a> |
                 <a href="mailto:chaoaj%20AT%20jmu.edu">chaoaj AT jmu.edu</a>
             </p>
         </div>
