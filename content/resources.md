@@ -11,6 +11,15 @@ description = "Additional resources for learning to program in Java"
 }
 </style>
 
+# Exam 1
+
+For __the coding portion of the exam__ you will be given a printed copy of the
+following two reference cards. (_You may not bring your own version._) No reference
+card is allowed for the written portion of the exam.
+
+* Java Reference Card [PDF](/cs149/files/exam1_Computer_JavaReferenceCard.pdf) [ODT](/cs149/files/exam1_Computer_JavaReferenceCard.odt)
+* Linux Reference Card [PDF](/cs149/files/exam1_Computer_LinuxReferenceCard.pdf) [ODT](/cs149/files/exam1_Computer_LinuxReferenceCard.odt)
+
 # Java
 
 * [Java 8 Development Kit](http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html)

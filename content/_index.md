@@ -200,6 +200,50 @@ Programming and on their way to a major in computer science.
         </div>
         <div class="col col-4 item">
             <figure class="crop">
+            <img alt="Kylie Davidson" src="/cs149/img/kylie_davidson.jpg" style="top:-100%;" width="150" height="150">
+            </figure>
+            <h3>Kylie Davidson</h3>
+            <p>Section 7</p>
+            <p><em>Lab Hours:</em></p>
+        </div>
+        <div class="col col-4 item">
+            <figure class="crop">
+            <img alt="Cynthia Zastudil" src="/cs149/img/cynthia_zastudil.jpg" style="top:-100%;" width="150" height="150">
+            </figure>
+            <h3>Cynthia Zastudil</h3>
+            <p>Section 8</p>
+            <p><em>Lab Hours:</em></p>
+            <p>SuMW 5-7p, Th 9-11p</p>
+        </div>
+        <div class="col col-4 item">
+            <figure class="crop">
+            <img alt="Cullen O'Hara" src="/cs149/img/cullenohara.jpg" style="top:-100%;" width="150" height="150">
+            </figure>
+            <h3>Cullen O'Hara</h3>
+            <p>Section 9</p>
+            <p><em>Lab Hours:</em></p>
+            <p>Su 1-3:30p, M 7-9p WTh 9-11p</p>
+        </div>
+        <div class="col col-4 item">
+            <figure class="crop">
+            <img alt="Becky Wild" src="/cs149/img/becky_wild.jpg" style="top:-100%;" width="150" height="150">
+            </figure>
+            <h3>Becky Wild</h3>
+            <!--p>Section 8</p-->
+            <p><em>Lab Hours:</em></p>
+            <p>Su 3-5p, M 7-9p, Th 9-11p</p>
+        </div>
+        <div class="col col-4 item">
+            <figure class="crop">
+            <img alt="William Krzyzkowski" src="/cs149/img/williamkrzyzkowski.jpg" style="top:-100%;" width="150" height="150">
+            </figure>
+            <h3>William Krzyzkowski</h3>
+            <!--p>Section 8</p-->
+            <p><em>Lab Hours:</em></p>
+            <p>SuT 9-11p, WTh 7-9p</p>
+        </div>
+        <div class="col col-4 item">
+            <figure class="crop">
             <img alt="Teaching Assistant Wizard" src="http://orig13.deviantart.net/60a0/f/2011/161/f/b/wizard_by_adam_brown-d3iiyfb.jpg" style="top:-100%;" width="150" height="150">
             </figure>
             <h3>More coming soon...</h3>
