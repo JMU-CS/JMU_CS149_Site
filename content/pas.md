@@ -9,3 +9,4 @@ description = ""
 
 1. [Programming Assignment 1](/cs149/pa/1)
 2. [Programming Assignment 2](/cs149/pa/2)
+3. [Programming Assignment 3](/cs149/pa/3)
