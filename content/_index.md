@@ -75,7 +75,7 @@ Programming and on their way to a major in computer science.
         </div>
         <div class="col col-4 item">
             <figure class="crop">
-            <img alt="Prof. David Bernstein" src="https://www.jmu.edu/_images/cs/faculty-staff-images/bernstein.jpg" width="150" height="150">
+            <img alt="Prof. David Bernstein" src="https://www.jmu.edu/cs/images/faculty-staff-images/bernstein.jpg" width="150" height="150">
             </figure>
             <h3><a href="https://users.cs.jmu.edu/bernstdh/Web/index.html">Prof. David Bernstein</a></h3>
             <p>Sections 2, 3</p>
@@ -116,8 +116,8 @@ Programming and on their way to a major in computer science.
             </p>
         </div>
         <div class="col col-4 item">
-            <figure class="crop">
-            <img alt="Prof. John Bowers" src="https://www.jmu.edu/_images/cs/faculty-staff-images/bowers.jpg" width="150" height="150">
+            <figure class="crop">             
+            <img alt="Prof. John Bowers" src="https://www.jmu.edu/cs/images/faculty-staff-images/bowers.jpg" width="150" height="150">
             </figure>
             <h3><a href="http://www.johncbowers.com/">Prof. John Bowers</a></h3>
             <p>Section 7</p>
@@ -131,7 +131,7 @@ Programming and on their way to a major in computer science.
         </div>
         <div class="col col-4 item">
             <figure class="crop">
-            <img alt="Prof. Dee Weikle" src="https://www.jmu.edu/_images/cs/faculty-staff-images/weikle" style="top:-100%;" width="150" height="150">
+            <img alt="Prof. Dee Weikle" src="https://www.jmu.edu/cs/images/faculty-staff-images/weikle" style="top:-100%;" width="150" height="150">
             </figure>
             <h3><a href="https://w3.cs.jmu.edu/weikleda/">Prof. Dee Weikle</a></h3>
             <p>Sections 8, 9</p>
@@ -146,7 +146,7 @@ Programming and on their way to a major in computer science.
     <div class="row gutters">
         <div class="col col-4 item">
             <figure class="crop">
-            <img alt="Prof. Michael Norton" src="https://www.jmu.edu/_images/cs/faculty-staff-images/norton.jpg" style="top:-100%" width="150" height="150">
+            <img alt="Prof. Michael Norton" src="https://www.jmu.edu/cs/images/faculty-staff-images/norton.jpg" style="top:-100%" width="150" height="150">
             </figure>
             <h3><a href="https://www.jmu.edu/cs/people/faculty/norton-michael.shtml">Prof. Michael Norton</a></h3>
             <p>Section 10</p>
